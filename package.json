@@ -1,0 +1,12 @@
+{
+	"author": "Florian Wendelborn <1133858+dodekeract@users.noreply.github.com>",
+	"bin": {
+		"shared-ignore": "./source/index.js"
+	},
+	"description": "Generates .dockerignore, .npmignore, .gitignore",
+	"license": "MIT",
+	"main": "source/index.js",
+	"name": "shared-ignore",
+	"repository": "git@github.com:dodekeract/shared-ignore",
+	"version": "0.0.1"
+}
